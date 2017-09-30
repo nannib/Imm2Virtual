@@ -19,6 +19,7 @@ type
     aim: TImage;
     Button4: TButton;
     Button5: TButton;
+    Button6: TButton;
     Edit1: TEdit;
     Edit2: TEdit;
     Image1: TImage;
