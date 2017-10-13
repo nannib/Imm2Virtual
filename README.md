@@ -7,3 +7,5 @@ https://arsenalrecon.com/weapons/image-mounter/
 You need:
 VirtualBox - https://www.virtualbox.org/
 
+More info here: https://articles.forensicfocus.com/2017/10/06/imm2virtual-a-windows-gui-to-virtualize-directly-from-disk-image-file/
+
