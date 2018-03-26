@@ -11,3 +11,5 @@ More info here: https://articles.forensicfocus.com/2017/10/06/imm2virtual-a-wind
 
 THE DISK NAME MUST BE THE SAME OF THE VIRTUAL MACHINE NAME!
 
+VirusTotal scan:
+https://www.virustotal.com/#/url/dc36289eddb2a2834cad7d62fc0b3fcc1e143443fd410896344f54311da0b345/detection
