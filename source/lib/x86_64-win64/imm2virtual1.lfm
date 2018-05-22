@@ -907,7 +907,7 @@ object Form1: TForm1
     Height = 48
     Top = 232
     Width = 598
-    Caption = 'RUN as Administrator CMD and type DIKSPART then type LIST DISK, see the disk number of your mounted disk image file (e.g. number 2) and then write SELECT DISK number (e.g. SELECT DISK 2). Now put offline the disk typing OFFLINE DISK.'
+    Caption = 'RUN as Administrator CMD and type DISKPART then type LIST DISK, see the disk number of your mounted disk image file (e.g. number 2) and then write SELECT DISK number (e.g. SELECT DISK 2). Now put offline the disk typing OFFLINE DISK.'
     Color = clBackground
     Constraints.MaxWidth = 600
     Font.CharSet = ANSI_CHARSET
