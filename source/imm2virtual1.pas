@@ -78,7 +78,7 @@ end;
 
 procedure TForm1.Button1Click(Sender: TObject);
 begin
- ShellExecute(0,nil, PChar('"".\ArsenalImageMounter_2.3.25_Beta\ArsenalImageMounter.exe""'),nil,nil,1);
+ ShellExecute(0,nil, PChar('"".\ArsenalImageMounter\ArsenalImageMounter.exe""'),nil,nil,1);
 end;
 
 procedure TForm1.Button2Click(Sender: TObject);

@@ -13,6 +13,7 @@ uses
 {$R *.res}
 
 begin
+  Application.Title:='imm2virtual V. 2.0';
   RequireDerivedFormResource:=True;
   Application.Initialize;
   Application.CreateForm(TForm1, Form1);
