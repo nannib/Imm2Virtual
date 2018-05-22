@@ -1,6 +1,6 @@
 # Imm2Virtual
 
-This is a Windows 64 bit GUI for a procedure to virtualize your EWF(E01), AFF disk image file without converting it, directly with VirtualBox. It is forensically proof.
+This is a Windows 64 bit GUI for a procedure to virtualize your EWF(E01), DD (raw), AFF disk image file without converting it, directly with VirtualBox. It is forensically proof.
 
 This tool includes Arsenal Image Mounter:
 https://arsenalrecon.com/weapons/image-mounter/
@@ -12,7 +12,7 @@ More info here: https://articles.forensicfocus.com/2017/10/06/imm2virtual-a-wind
 
 THE DISK NAME MUST BE THE SAME OF THE VIRTUAL MACHINE NAME!
 
-imm2virtual.exe SHA256: CE7A56426179FEDF4415C09924ADEAD5DEE6F1B19864DB4BAB62CD028C02344F
+imm2virtual.exe SHA256: 2b082cfcf21d1b11f4eaca77f4b7a655d45f9ab97ed786ac6681ec2e9b22112a
 
 VirusTotal scan:
-https://www.virustotal.com/#/file/ce7a56426179fedf4415c09924adead5dee6f1b19864db4bab62cd028c02344f/detection
+https://www.virustotal.com/#/file/2b082cfcf21d1b11f4eaca77f4b7a655d45f9ab97ed786ac6681ec2e9b22112a/detection
