@@ -4,7 +4,7 @@ object Form1: TForm1
   Top = 67
   Width = 1017
   Align = alTop
-  Caption = 'Imm2Virtual V. 2.0 - by Nanni Bassetti www.nannibassetti.com'
+  Caption = 'Imm2Virtual V. 1.0 - by Nanni Bassetti www.nannibassetti.com'
   ClientHeight = 619
   ClientWidth = 1017
   Color = clBackground
