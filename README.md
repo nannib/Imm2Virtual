@@ -1,4 +1,4 @@
-# Imm2Virtual
+# Imm2Virtual V. 2.0
 
 This is a Windows 64 bit GUI for a procedure to virtualize your EWF(E01), DD (raw), AFF disk image file without converting it, directly with VirtualBox. It is forensically proof.
 
