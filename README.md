@@ -12,7 +12,7 @@ More info here: https://articles.forensicfocus.com/2017/10/06/imm2virtual-a-wind
 
 THE DISK NAME MUST BE THE SAME OF THE VIRTUAL MACHINE NAME!
 
-imm2virtual.exe SHA256: 2b082cfcf21d1b11f4eaca77f4b7a655d45f9ab97ed786ac6681ec2e9b22112a
+imm2virtual.exe SHA256: 78ffcb1b9b405d2c35ed49018476cbd20664b0256933f59c7530b6d18b1ebb60
 
 VirusTotal scan:
-https://www.virustotal.com/#/file/2b082cfcf21d1b11f4eaca77f4b7a655d45f9ab97ed786ac6681ec2e9b22112a/detection
+https://www.virustotal.com/#/file/78ffcb1b9b405d2c35ed49018476cbd20664b0256933f59c7530b6d18b1ebb60/detection
