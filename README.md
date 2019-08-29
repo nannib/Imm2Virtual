@@ -5,6 +5,8 @@ This is a Windows 64 bit GUI for a procedure to virtualize your EWF(E01), DD (ra
 This tool includes Arsenal Image Mounter:
 https://arsenalrecon.com/weapons/image-mounter/
 
+I SUGGEST TO DOWNLOAD THE LATEST VERSION OF ARSENAL!
+
 You need:
 VirtualBox - https://www.virtualbox.org/
 
